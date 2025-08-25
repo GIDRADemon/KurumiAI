@@ -60,7 +60,7 @@
     *   [Twitch](https://www.twitch.tv/gidrademon)
     *   [VK Видео](https://vkvideo.ru/@club232323826)
     *   [VK Видео Live](https://live.vkvideo.ru/gidrademon)
-    *   [Telegram-канал](https://t.me/KurumiAIGIDRA)
+    *   [Telegram-канал](https://t.me/KurumiAIGIDRA) скачать проект вы можешь именно тут
 *   **📺 Ссылки на видео для ознакомления** на данных площадках:
     *   [YouTube](https://www.youtube.com/channel/UClF_ucKjjb1OByMgBRitpsQ)
       
