@@ -60,6 +60,6 @@
     *   [Twitch](https://www.twitch.tv/gidrademon)
     *   [VK Видео](https://vkvideo.ru/@club232323826)
     *   [VK Видео Live](https://live.vkvideo.ru/gidrademon)
-    *   [Telegram-канал](t.me/KurumiAIGIDRA)
+    *   [Telegram-канал](https://t.me/KurumiAIGIDRA)
 
 *Разработано с ❤️ и новым подходом к созданию ИИ.*
